@@ -3,7 +3,7 @@ var FizzBuzz = require('../src/FizzBuzz');
 
 describe('fizzbuzz()', function() {
 
-    //function block scope + hoisting (see declaration below)
+    //function scope + hoisting (see declaration below)
     tests = [
         { args: [2], expected: 2 },
         { args: [4], expected: 4 }
