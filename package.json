@@ -1,0 +1,15 @@
+{
+  "name": "node_tdd_sandbox",
+  "version": "1.0.0",
+  "description": "Some katas done via TDD in node using TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Savage",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^2.2.5",
+    "should": "^7.0.3"
+  }
+}
