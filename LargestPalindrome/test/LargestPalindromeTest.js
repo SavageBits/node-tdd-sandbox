@@ -20,7 +20,7 @@ describe('LargestPalindrome', function() {
         });
     });
 
-    it('should return the largest palindrome of two 1-digit numbers', function() {
+    it('should return the largest palindrome of two 3-digit numbers', function() {
         var lp = new LargestPalindrome();
 
         var res = lp.getLargestPalindromic();
